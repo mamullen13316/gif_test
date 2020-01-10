@@ -5,5 +5,5 @@
 
 ## 1280x720
 
-![Alt Text](https://github.com/mamullen13316/gif_test/blob/master/1280x720.gif)
+![Alt Text](https://raw.githubusercontent.com/mamullen13316/gif_test/master/1280x720.gif)
 
